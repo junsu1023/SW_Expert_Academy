@@ -28,37 +28,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SW_2063">
-    <configuration name="SW_2063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW_2063" />
+  <component name="RunManager" selected="Application.SW_1545">
+    <configuration name="SW_1545" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW_1545" />
       <module name="SW_Expert_Academy_D1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_2068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW_2068" />
+    <configuration name="SW_1933" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW_1933" />
       <module name="SW_Expert_Academy_D1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_2070" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW_2070" />
+    <configuration name="SW_1936" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW_1936" />
       <module name="SW_Expert_Academy_D1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_2071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW_2071" />
+    <configuration name="SW_1938" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW_1938" />
       <module name="SW_Expert_Academy_D1" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SW_2072" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SW_2072" />
+    <configuration name="SW_2019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SW_2019" />
       <module name="SW_Expert_Academy_D1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,11 +66,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SW_2063" />
-        <item itemvalue="Application.SW_2068" />
-        <item itemvalue="Application.SW_2070" />
-        <item itemvalue="Application.SW_2071" />
-        <item itemvalue="Application.SW_2072" />
+        <item itemvalue="Application.SW_1545" />
+        <item itemvalue="Application.SW_2019" />
+        <item itemvalue="Application.SW_1936" />
+        <item itemvalue="Application.SW_1933" />
+        <item itemvalue="Application.SW_1938" />
       </list>
     </recent_temporary>
   </component>
